@@ -1,0 +1,5 @@
+receiver1@gmail.com
+receiver2@gmail.com
+receiver3@gmail.com
+receiver4@gmail.com
+receiver5@gmail.com
